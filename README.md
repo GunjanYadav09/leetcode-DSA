@@ -2,7 +2,7 @@
 
 Welcome to my **LeetCode DSA Solutions** repository!
 
-This repository contains my accepted solutions to **LeetCode** problems, organized topic-wise. I solve problems regularly to strengthen my understanding of **Data Structures & Algorithms** and improve my problem-solving skills for Software Engineering interviews.
+This repository contains my accepted solutions to **LeetCode** problems, organized topic-wise. I solve problems regularly to strengthen my understanding of **Data Structures & Algorithms** and improve my problem-solving skills for Software Engineering AI/ML and Full Stack Development Interviews.
 
 ---
 
